@@ -1,0 +1,17 @@
+{
+    "password":"welcome1234!",
+    "firstName":"Oliver",
+    "secondName":"Smith",
+    "nameofYourCompany":"neerajdotname Private Limited",
+    "congratulationText":"Congratulations, you're all set!",
+    "verificationText":"Verification email sent to",
+    "clientName":"Trix Inc",
+    "addProjectText":"Add New Project",
+    "projectName":"Trix Web Development",
+    "hourlyProjectRate":"20",
+    "trixWebText":"Trix Web Development",
+    "hourlyRateText":"Hourly Project Rate",
+    "roundingText":"No rounding ",
+    "nameText":"Oliver Smith",
+    "rateText":"$20.00"
+}
